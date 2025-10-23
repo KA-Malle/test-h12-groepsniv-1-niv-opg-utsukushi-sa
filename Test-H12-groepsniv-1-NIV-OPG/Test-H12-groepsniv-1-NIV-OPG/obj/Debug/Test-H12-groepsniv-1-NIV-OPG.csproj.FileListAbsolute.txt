@@ -1,0 +1,8 @@
+C:\Users\stuyt\OneDrive - gomalle.net\2025-2026\git_kyan\test-h12-groepsniv-1-niv-opg-utsukushi-sa\Test-H12-groepsniv-1-NIV-OPG\Test-H12-groepsniv-1-NIV-OPG\bin\Debug\Test-H12-groepsniv-1-NIV-OPG.exe.config
+C:\Users\stuyt\OneDrive - gomalle.net\2025-2026\git_kyan\test-h12-groepsniv-1-niv-opg-utsukushi-sa\Test-H12-groepsniv-1-NIV-OPG\Test-H12-groepsniv-1-NIV-OPG\bin\Debug\Test-H12-groepsniv-1-NIV-OPG.exe
+C:\Users\stuyt\OneDrive - gomalle.net\2025-2026\git_kyan\test-h12-groepsniv-1-niv-opg-utsukushi-sa\Test-H12-groepsniv-1-NIV-OPG\Test-H12-groepsniv-1-NIV-OPG\bin\Debug\Test-H12-groepsniv-1-NIV-OPG.pdb
+C:\Users\stuyt\OneDrive - gomalle.net\2025-2026\git_kyan\test-h12-groepsniv-1-niv-opg-utsukushi-sa\Test-H12-groepsniv-1-NIV-OPG\Test-H12-groepsniv-1-NIV-OPG\obj\Debug\Test-H12-groepsniv-1-NIV-OPG.csproj.AssemblyReference.cache
+C:\Users\stuyt\OneDrive - gomalle.net\2025-2026\git_kyan\test-h12-groepsniv-1-niv-opg-utsukushi-sa\Test-H12-groepsniv-1-NIV-OPG\Test-H12-groepsniv-1-NIV-OPG\obj\Debug\Test-H12-groepsniv-1-NIV-OPG.csproj.CoreCompileInputs.cache
+C:\Users\stuyt\OneDrive - gomalle.net\2025-2026\git_kyan\test-h12-groepsniv-1-niv-opg-utsukushi-sa\Test-H12-groepsniv-1-NIV-OPG\Test-H12-groepsniv-1-NIV-OPG\obj\Debug\Test-H12-groepsniv-1-NIV-OPG.exe
+C:\Users\stuyt\OneDrive - gomalle.net\2025-2026\git_kyan\test-h12-groepsniv-1-niv-opg-utsukushi-sa\Test-H12-groepsniv-1-NIV-OPG\Test-H12-groepsniv-1-NIV-OPG\obj\Debug\Test-H12-groepsniv-1-NIV-OPG.pdb
+C:\Users\stuyt\OneDrive - gomalle.net\2025-2026\git_kyan\test-h12-groepsniv-1-niv-opg-utsukushi-sa\Test-H12-groepsniv-1-NIV-OPG\Test-H12-groepsniv-1-NIV-OPG\obj\Debug\Test-H12-groepsniv-1-NIV-OPG.exe.config

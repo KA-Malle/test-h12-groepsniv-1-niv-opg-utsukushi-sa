@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\stuyt\\OneDrive - gomalle.net\\2025-2026\\git_kyan\\test-h12-groepsniv-1-niv-opg-utsukushi-sa\\Test-H12-groepsniv-1-NIV-OPG\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FACD6C89-EFE2-4FA9-93F3-1AA6D9525371}|Test-H12-groepsniv-1-NIV-OPG\\Test-H12-groepsniv-1-NIV-OPG.csproj|c:\\users\\stuyt\\onedrive - gomalle.net\\2025-2026\\git_kyan\\test-h12-groepsniv-1-niv-opg-utsukushi-sa\\test-h12-groepsniv-1-niv-opg\\test-h12-groepsniv-1-niv-opg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FACD6C89-EFE2-4FA9-93F3-1AA6D9525371}|Test-H12-groepsniv-1-NIV-OPG\\Test-H12-groepsniv-1-NIV-OPG.csproj|solutionrelative:test-h12-groepsniv-1-niv-opg\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\stuyt\\OneDrive - gomalle.net\\2025-2026\\git_kyan\\test-h12-groepsniv-1-niv-opg-utsukushi-sa\\Test-H12-groepsniv-1-NIV-OPG\\Test-H12-groepsniv-1-NIV-OPG\\Program.cs",
+              "RelativeDocumentMoniker": "Test-H12-groepsniv-1-NIV-OPG\\Program.cs",
+              "ToolTip": "C:\\Users\\stuyt\\OneDrive - gomalle.net\\2025-2026\\git_kyan\\test-h12-groepsniv-1-niv-opg-utsukushi-sa\\Test-H12-groepsniv-1-NIV-OPG\\Test-H12-groepsniv-1-NIV-OPG\\Program.cs",
+              "RelativeToolTip": "Test-H12-groepsniv-1-NIV-OPG\\Program.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAmwHIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T09:32:29.975Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
